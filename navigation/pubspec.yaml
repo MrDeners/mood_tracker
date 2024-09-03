@@ -1,0 +1,38 @@
+name: navigation
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.0.0 <4.0.0'
+
+dependencies:
+  auto_route: ^8.1.2
+  flutter:
+    sdk: flutter
+
+  core:
+    path: ../core
+  core_ui:
+    path: ../core_ui
+  domain:
+    path: ../domain
+
+  auth:
+    path: ../feature/auth
+  note:
+    path: ../feature/note
+  main_screen:
+    path: ../feature/main_screen
+  home:
+    path: ../feature/home
+  stats:
+    path: ../feature/stats
+  history:
+    path: ../feature/history
+  setting:
+    path: ../feature/setting
+
+dev_dependencies:
+  flutter_lints: ^3.0.1
+  auto_route_generator: ^8.0.0
+  build_runner: ^2.4.8

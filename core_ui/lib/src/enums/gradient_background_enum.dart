@@ -1,0 +1,4 @@
+enum GradientBackgroundType {
+  mainBackground,
+  bottomSheetBackground,
+}

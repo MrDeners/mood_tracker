@@ -1,0 +1,94 @@
+{
+  "general": {
+    "save": "Сохранить",
+    "continue": "Продолжить",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "search": "Найти",
+    "recentlyUsed": "Недавно использованные",
+    "selected": "Выбрано",
+    "clearAll": "Очистить список",
+    "readMore": "Читать полностью",
+    "hide": "Скрыть",
+    "tip": "Совет"
+  },
+  "authScreen": {
+    "name": "Имя",
+    "password": "Пароль",
+    "availablePasswordSymbols": "Только буквы, цифры и специальные символы",
+    "passwordLength": "8-20 символос",
+    "passwordLetterCases": "Буквы в верхнем и нижнем регистрах",
+    "specialPasswordSymbols": "Специальные символы (%, @, &, etc.)",
+    "logIn": "Войти",
+    "createAccount": "Создать аккаунт",
+    "forgotPassword": "Забыли пароль?",
+    "email": "Email",
+    "confirmPassword": "Подтверждение пароля",
+    "signUp": "Зарегистрироваться",
+    "newPassword": "Новый пароль",
+    "changePassword": "Изменить пароль",
+    "successLogIn": "Успешная авторизация"
+  },
+  "validators": {
+    "emailEmpty": "Поле Email не заполнено",
+    "passwordEmpty": "Поле пароля не заполнено",
+    "nameEmpty": "Поле имени не заполнено",
+    "accountNoExist": "Аккаунт не существует",
+    "passwordWrong": "Неверный пароль",
+    "nameSymbols": "Используйте только английские символы и нижнее подчеркивание (_)",
+    "emailNotExist": "Используйте существующий адрес",
+    "passwordSymbols": "Используйте только английские символы и специальные символы",
+    "passwordShort": "Слишком короткий",
+    "passwordLong": "Слишком длинный",
+    "passwordCase": "Используйте большие и маленькие буквы",
+    "passwordSpecSymbols": "Используйте специальные символы",
+    "passwordMismatch": "Пароли не совпадают",
+    "emailInvalid": "Неверный email",
+    "accountDisabled": "Аккаунт был отключен",
+    "emailNotRegister": "Email не зарегистрирован",
+    "someError": "Что-то пошло не так",
+    "emailInUse": "Email уже в использовании",
+    "registrationNotAllowed": "Этот тип регистрации не разрешён",
+    "passwordDifficult": "Используйте более сложный пароль",
+    "confirmPasswordEmpty": "Поле подтверждения пароля не заполнено",
+    "invalidCredential": "Неверные данные учетной записи"
+  },
+  "noteProcessing": {
+    "chooseEmotions": "Выберите эмоции, которые вы испытываете",
+    "selectEmotions": "Выберите хотя бы 1 эмоцию",
+    "chooseReasons": "Что приводит вам к той или иной эмоции?",
+    "selectReasons": "Выберите причины, вызвавшие эмоции",
+    "addComment": "Добавьте любую важную информацию",
+    "selectComment": "Добавьте заметки о любом событии, вызвавшем эмоцию",
+    "moodNow": "Как вы сейчас себя чувствуете?",
+    "selectMood": "Выберите эмоцию, которая вам похожа на то, что вы сейчас чувствуете.",
+    "searchEmotions": "Найди эмоции",
+    "searchReasons": "Найди и добавь причины",
+    "allEmotions": "Все эмоции",
+    "allReasons": "Все причины",
+    "skipAndSave": "Пропустить и Cохранить"
+  },
+  "note": {
+    "youFelt": "Вы чувствовали",
+    "becauseOf": "Из-за",
+    "note": "Заметка",
+    "mood": {
+      "theWorst": "Ужасное",
+      "bad": "Плохое",
+      "normal": "Нормальное",
+      "good": "Хорошее",
+      "theBest": "Отличное"
+    }
+  },
+  "navigationBar": {
+    "home": "Главная",
+    "stats": "Статистика",
+    "addMood": "Добавить заметку",
+    "history": "История",
+    "setting": "Настройки"
+  },
+  "historyScreen": {
+    "yourHistory": "Ваша история",
+    "noHistory": "Истории пока нет"
+  }
+}

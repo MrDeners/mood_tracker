@@ -1,0 +1,94 @@
+{
+  "general": {
+    "save": "Save",
+    "continue": "Continue",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "recentlyUsed": "Recently used",
+    "selected": "Selected",
+    "clearAll": "Clear all",
+    "readMore": "Read more",
+    "hide": "Hide",
+    "tip": "Tip"
+  },
+  "authScreen": {
+    "name": "Name",
+    "password": "Password",
+    "availablePasswordSymbols": "Only letters, numbers and special symbols",
+    "passwordLength": "8-20 characters",
+    "passwordLetterCases": "Uppercase, lowercase letters",
+    "specialPasswordSymbols": "Special symbols (%, @, &, etc.)",
+    "logIn": "Log in",
+    "createAccount": "Create account",
+    "forgotPassword": "Forgot password?",
+    "email": "Email",
+    "confirmPassword": "Confirm password",
+    "signUp": "Sign Up",
+    "newPassword": "New password",
+    "changePassword": "Change password",
+    "successLogIn": "Success authorization"
+  },
+  "validators" : {
+    "emailEmpty": "Email field is empty",
+    "passwordEmpty": "Password field is empty",
+    "nameEmpty": "Name field is empty",
+    "accountNoExist": "Account doesn't exist",
+    "passwordWrong": "Wrong password",
+    "nameSymbols": "Use only English symbols and underscores (_)",
+    "emailNotExist": "Use existing address",
+    "passwordSymbols": "Use only English symbols and special symbols",
+    "passwordShort": "Is too short",
+    "passwordLong": "Is too long",
+    "passwordCase": "Use uppercase and lowercase",
+    "passwordSpecSymbols": "Use special symbols",
+    "passwordMismatch": "Passwords mismatch",
+    "emailInvalid": "Invalid email",
+    "accountDisabled": "Account was disabled",
+    "emailNotRegister": "Email didn't register",
+    "someError": "Something work wrong",
+    "emailInUse": "Email already in use",
+    "registrationNotAllowed": "This type of registration not allowed",
+    "passwordDifficult": "Use more difficult password",
+    "invalidCredential": "Invalid credential",
+    "confirmPasswordEmpty": "Confirm password field is empty"
+  },
+  "noteProcessing": {
+    "chooseEmotions": "Choose the emotions that make you feel neutral",
+    "selectEmotions": "Select at least 1 emotion",
+    "chooseReasons": "What’s reason making you feel this way?",
+    "selectReasons": "Select reasons that reflated your emotions",
+    "addComment": "Any thing you want to add",
+    "selectComment": "Add your notes on any thought that reflating your mood",
+    "moodNow": "What’s your mood now?",
+    "selectMood": "Select mood that reflects the most how you are feeling at this moment.",
+    "searchEmotions": "Search emotions",
+    "searchReasons": "Search & add reasons",
+    "allEmotions": "All emotions",
+    "allReasons": "All reasons",
+    "skipAndSave": "Skip and Save"
+  },
+  "note": {
+    "youFelt": "You felt",
+    "becauseOf": "Because of",
+    "note": "Note",
+    "mood": {
+      "theWorst": "Terrible",
+      "bad": "Bad",
+      "normal": "Neutral",
+      "good": "Good",
+      "theBest": "Happy"
+    }
+  },
+  "navigationBar": {
+    "home": "Home",
+    "stats": "Stats",
+    "addMood": "Add mood",
+    "history": "History",
+    "setting": "Setting"
+  },
+  "historyScreen": {
+    "yourHistory": "Your history",
+    "noHistory": "No history"
+  }
+}

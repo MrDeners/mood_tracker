@@ -1,1 +1,3 @@
-# mood_tracker
+# Mood Today
+
+Check youre mood every day!

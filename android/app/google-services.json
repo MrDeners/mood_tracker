@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79132403337",
+    "project_id": "mood-today-421814",
+    "storage_bucket": "mood-today-421814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79132403337:android:4dfbf819d18f0c04cc4858",
+        "android_client_info": {
+          "package_name": "com.example.mood_today"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwlgPbDl9jxCspmOkSANsz0nygNKniU_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
