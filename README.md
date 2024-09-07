@@ -4,4 +4,5 @@
 ### Group - 253501
 
 # Check your mood every day!
-![Diagramm](https://github.com/user-attachments/assets/dbe4f67d-048b-4e4a-8338-09c8573ae6a5)
+![DB Model](https://github.com/user-attachments/assets/86fcd74c-6243-4fd1-bed1-dd2b53f42522)
+
